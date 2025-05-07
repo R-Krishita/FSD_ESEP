@@ -1,15 +1,1 @@
-u cn
-
-
-
-
-
-
-
-
-
-
-
-write javascript code to count the number of vowels in a given string
-
-create a simple webpage and use css to style headings in red and paragraph in blue
+![image](https://github.com/user-attachments/assets/7c5185cd-69e9-433e-863d-0d25e1fbd0c9)
